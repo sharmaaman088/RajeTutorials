@@ -1,0 +1,42 @@
+File name and class name should be same and class name should always be in capital letter
+
+System is a class that is why it starts with capital S
+
+
+public static void main(String[] args)
+
+Method have a camel vent lower case to upper case 
+
+2 types of variable 
+
+Global variable : inside a class 
+Data type variable and the equal value 
+
+Local variable : declared under method is local variable.
+
+
+// single line comment 
+
+main method is like a entery point of program.
+
+we need () for method 
+
+String [] args : we can have multiple values for this 
+
+like this String [] args : {"welcome","hello","hey"};
+
+String s = welcome 
+
+void means nothing will be returned
+
+ Static  
+
+public access modifier
+
+
+
+
+Anything with static will be loaded in the class first 
+Memory 
+1.class is loaded 
+2.static is loade
